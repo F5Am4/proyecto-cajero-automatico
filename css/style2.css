@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+body{
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    width: 170px;
+    height: 40px;
+    text-align:center;
+    font-size: 28px;
+    border-radius: 35px;
+    border: none;
+    background-color: #ffffff;
+}
+
+form{
+    width: 700px;
+    height: 800px;
+    margin: auto;
+    border-radius: 35px;
+    padding: 0px;
+    background-color: #f8e4e4;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+.input-square{
+    padding: 25px;
+    width: 100%;
+    height: 100%;
+}
+.input-square11{
+    padding: 25px;
+}
+
+.btc3{
+    color: #fff;
+}
+
+.btc2{
+    width: 500px;
+    align-items: center;
+    background-color: #d3cfcf;
+}
+
+.btc2:hover{
+    cursor: pointer;
+    transition: calc(.3s) ease-in-out;
+    transform: scale(1.1);
+    background-color: rgb(214, 57, 57);
+    color: #fff;
+}
+
+
+.btc1{
+    width: 400px;
+    align-items: center;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    margin: 0 0 15px;
+    text-align: center;
+    display: row;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 28px;
+    background-color: rgb(255, 0, 0);
+}
+
+
+/*.container-menu{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1e8e8;
+}
+
+.container-menu2{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    background-color: #f1e8e8;
+}*/
+
+.menu-cuenta{
+    margin: 0;
+    padding: 15px;
+    background-color: rgb(255, 0, 0);
+}
+
+.menu-saldo{
+    padding: 20px;
+    font-size: 28px;
+}
+
+.menu-cantidad{
+    padding: 35px;
+    font-size: 28px;
+}
+
+.menu-transferir{
+    padding: 35px;
+    font-size: 28px;
+}
+
+.logo-arrow{
+    width: 45px;
+}
+
+.button-arrow1{
+    border-radius: 35px;
+    width: 85px;
+    border: none;
+    background-color: rgb(197, 196, 196);
+}
+
+.button-arrow1:hover{
+    background-color: rgb(240, 12, 12);
+    transition: calc(.5s) ease-in-out;
+    cursor: pointer;
+    transform: scale(1.3);
+    
+}
+
+.autor{
+    margin: 0;
+    padding: 10px;
+    text-align: center; 
+}
+
+
